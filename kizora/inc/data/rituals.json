@@ -1,0 +1,122 @@
+{
+ "morning": {
+  "slug": "morning",
+  "title": "Your morning ritual",
+  "eyebrow": "Morning · about three minutes",
+  "intro": "Two essentials, mist and gel, plus an optional lip balm. About three minutes, and light enough to sit under sunscreen or make-up.",
+  "image": "/images/products/rose-hydrating-mist/1.webp",
+  "kit": "morning-ritual-kit",
+  "tone": "bg-butter/50",
+  "steps": [
+   {
+    "n": "1",
+    "role": "Mist",
+    "slug": "rose-hydrating-mist",
+    "title": "Rose Hydrating Mist",
+    "how": "Hold about 20 cm away and spray two or three times over a clean face and neck. Wait a few seconds.",
+    "why": "A little water and freshness after washing your face."
+   },
+   {
+    "n": "2",
+    "role": "Hydrate",
+    "slug": "pure-aloe-vera-gel",
+    "title": "Pure Aloe Vera Gel",
+    "how": "Smooth a pea-sized amount over face and neck while the mist is still slightly damp.",
+    "why": "Light hydration that does not feel heavy under sunscreen."
+   },
+   {
+    "n": "3",
+    "role": "Lips",
+    "slug": "beetroot-ghee-lip-balm",
+    "title": "Beetroot & Ghee Lip Balm",
+    "how": "A thin layer on lips.",
+    "why": "Keeps lips soft through the day, with a light tint.",
+    "optional": true
+   }
+  ],
+  "swaps": [
+   {
+    "label": "Oily or combination skin",
+    "text": "Use Tea Tree Purifying Mist in step 1.",
+    "slug": "tea-tree-purifying-mist"
+   },
+   {
+    "label": "Hot, humid days",
+    "text": "Use Eucalyptus Soothing Mist in step 1.",
+    "slug": "eucalyptus-soothing-mist"
+   },
+   {
+    "label": "Drier skin",
+    "text": "Use Aloe Vera Gel with Vitamin E in step 2.",
+    "slug": "aloe-vera-gel-with-vitamin-e"
+   }
+  ],
+  "gaps": "Use your usual gentle face wash before the ritual, and finish with a broad-spectrum sunscreen. These are not included in the kit."
+ },
+ "evening": {
+  "slug": "evening",
+  "title": "Your evening ritual",
+  "eyebrow": "Evening · about ten minutes",
+  "intro": "A slower routine for the end of the day. Cleanse, mist, then let an oil do its work overnight. Steps 4 and 5 matter most in winter.",
+  "image": "/images/products/cold-pressed-moringa-oil/1.webp",
+  "kit": "evening-ritual-kit",
+  "tone": "bg-dusk text-cream",
+  "steps": [
+   {
+    "n": "1",
+    "role": "Cleanse",
+    "slug": "aloe-vera-bathing-bar",
+    "title": "Aloe Vera Bathing Bar",
+    "how": "Lather between wet hands, wash face and body, rinse with lukewarm water.",
+    "why": "A gentle bar for face and body."
+   },
+   {
+    "n": "2",
+    "role": "Mist",
+    "slug": "rose-hydrating-mist",
+    "title": "Rose Hydrating Mist",
+    "how": "Spray once or twice over face and neck.",
+    "why": "The same bottle as your morning ritual."
+   },
+   {
+    "n": "3",
+    "role": "Nourish",
+    "slug": "cold-pressed-moringa-oil",
+    "title": "Cold-Pressed Moringa Oil",
+    "how": "Warm two or three drops between your palms and press onto face and neck.",
+    "why": "Night is the best time for an oil: it has hours to soften skin."
+   },
+   {
+    "n": "4",
+    "role": "Lips",
+    "slug": "licorice-cocoa-ghee-lip-balm",
+    "title": "Licorice, Cocoa & Ghee Lip Balm",
+    "how": "A generous layer before bed.",
+    "why": "A richer balm for overnight.",
+    "optional": true
+   },
+   {
+    "n": "5",
+    "role": "Feet",
+    "slug": "avocado-olive-ghee-foot-butter",
+    "title": "Avocado & Olive Ghee Foot Butter",
+    "how": "Massage into heels, then wear cotton socks.",
+    "why": "Our older customers reorder this one for dry, cracked heels.",
+    "optional": true
+   }
+  ],
+  "swaps": [
+   {
+    "label": "Prefer a gel at night",
+    "text": "Use Aloe Vera Gel with Vitamin E instead of the oil in step 3.",
+    "slug": "aloe-vera-gel-with-vitamin-e"
+   },
+   {
+    "label": "Very dry skin in winter",
+    "text": "Use the Cow Milk Bathing Bar for your body in step 1.",
+    "slug": "cow-milk-bathing-bar"
+   }
+  ],
+  "gaps": "Evening essentials covers the oil and lip balm. The complete ritual adds the bathing bar, mist and foot butter. If your skin is oily, one drop of oil is enough, or skip it and use the aloe gel."
+ }
+}

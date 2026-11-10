@@ -1,0 +1,1265 @@
+[
+ {
+  "slug": "pure-aloe-vera-gel",
+  "sku": "KAG30",
+  "kind": "product",
+  "name": "Pure Aloe Vera Gel",
+  "liveName": "Pure Organic Aloe Vera Gel | Everyday Hydration & Skin Relief (30g)",
+  "size": "30 g",
+  "price": 325,
+  "oneLine": "A clear, light gel that is 99% aloe leaf gel.",
+  "description": [
+   "This is the gel Kizora started with. It is 99% aloe leaf gel with a natural preservative, nothing else listed.",
+   "It feels cool and light, and works on face and body. Use it after washing your face in the morning, or after a shower or shave."
+  ],
+  "howToUse": "Smooth a pea-sized amount over clean face and neck. On the body, use a little more on arms and legs.",
+  "when": "Morning and night",
+  "forWhom": "All skin types, face and body",
+  "keyIngredients": [
+   "Aloe vera leaf gel (99%)"
+  ],
+  "fullIngredients": "Aloe Barbadensis Leaf Gel (99%), Natural Preservatives.",
+  "ingredientSlugs": [
+   "aloe-vera"
+  ],
+  "collections": [
+   "face-gels",
+   "aloe-vera-essentials"
+  ],
+  "needs": [
+   "dryness",
+   "oily",
+   "sensitive"
+  ],
+  "skin": [
+   "all"
+  ],
+  "ritual": [
+   "morning"
+  ],
+  "faqs": [
+   {
+    "q": "Is it suitable for sensitive skin?",
+    "a": "It is 99% aloe leaf gel with a natural preservative. If your skin reacts easily, try a little on your inner arm first and wait a day."
+   },
+   {
+    "q": "Can I use it every day?",
+    "a": "Yes, once or twice a day on clean skin."
+   },
+   {
+    "q": "Does it work under sunscreen?",
+    "a": "It is light, so it sits well under sunscreen or make-up. Let it settle for a minute first."
+   }
+  ],
+  "useWith": [
+   "rose-hydrating-mist",
+   "beetroot-ghee-lip-balm",
+   "cold-pressed-moringa-oil"
+  ],
+  "approvals": [
+   "Name the \"natural preservatives\" from formulation records",
+   "Confirm \"no added fragrance\"",
+   "\"Organic\" removed from the name until a certificate is on file"
+  ]
+ },
+ {
+  "slug": "aloe-vera-gel-with-vitamin-e",
+  "sku": "KAGE50",
+  "kind": "product",
+  "name": "Aloe Vera Gel with Vitamin E",
+  "liveName": "Pure Organic Aloe Vera Gel with Vitamin E | Deep Hydration & Antioxidant Care (50g)",
+  "size": "50 g",
+  "price": 425,
+  "oneLine": "Our aloe gel with vitamin E added, for skin that feels a little drier.",
+  "description": [
+   "The same 99% aloe leaf gel, with vitamin E (tocopheryl acetate) added. It is a good choice if the plain gel feels too light for you, especially in winter.",
+   "On normal skin use it on its own. On dry skin, use it at night under two or three drops of moringa oil."
+  ],
+  "howToUse": "Smooth a pea-sized amount over clean face and neck, morning or night.",
+  "when": "Morning and night",
+  "forWhom": "Normal to dry skin",
+  "keyIngredients": [
+   "Aloe vera leaf gel (99%)",
+   "Vitamin E"
+  ],
+  "fullIngredients": "Aloe Barbadensis Leaf Gel (99%), Vitamin E Acetate, Natural Preservatives.",
+  "ingredientSlugs": [
+   "aloe-vera",
+   "vitamin-e"
+  ],
+  "collections": [
+   "face-gels",
+   "aloe-vera-essentials"
+  ],
+  "needs": [
+   "dryness"
+  ],
+  "skin": [
+   "dry",
+   "normal",
+   "combination",
+   "oily",
+   "sensitive"
+  ],
+  "ritual": [
+   "morning",
+   "evening"
+  ],
+  "faqs": [
+   {
+    "q": "How is it different from the Pure Aloe Vera Gel?",
+    "a": "It has vitamin E added and comes in a 50 g jar. Choose it if your skin feels a little dry with the plain gel."
+   },
+   {
+    "q": "Can I use it with an oil?",
+    "a": "Yes. At night, use the gel first and then press two or three drops of moringa oil on top."
+   }
+  ],
+  "useWith": [
+   "cold-pressed-moringa-oil",
+   "rose-hydrating-mist",
+   "licorice-cocoa-ghee-lip-balm"
+  ],
+  "approvals": [
+   "Gallery image of the rose-oil carton removed (it belongs to another product)"
+  ]
+ },
+ {
+  "slug": "aloe-vera-gel-with-rose-oil",
+  "sku": "KAGR50",
+  "kind": "product",
+  "name": "Aloe Vera Gel with Rose Oil",
+  "liveName": "KIZORA Pure Organic Aloe Vera Gel with Rose Oil | Deep Hydration & Natural Glow (50g)",
+  "size": "50 g",
+  "price": 425,
+  "oneLine": "Aloe gel with a little rose essential oil, for those who like a soft scent.",
+  "description": [
+   "Our 99% aloe leaf gel with rose essential oil added. It has a gentle rose scent and the same light, cool feel.",
+   "If your skin is very reactive to fragrance, the Pure Aloe Vera Gel is the better choice."
+  ],
+  "howToUse": "Smooth a pea-sized amount over clean face and neck.",
+  "when": "Morning and night",
+  "forWhom": "Combination and dry skin",
+  "keyIngredients": [
+   "Aloe vera leaf gel (99%)",
+   "Rose essential oil"
+  ],
+  "fullIngredients": "Aloe Barbadensis Leaf Gel (99%), Rose Essential Oil, Natural Preservatives.",
+  "ingredientSlugs": [
+   "aloe-vera",
+   "rose"
+  ],
+  "collections": [
+   "face-gels",
+   "aloe-vera-essentials"
+  ],
+  "needs": [
+   "dryness"
+  ],
+  "skin": [
+   "combination",
+   "dry"
+  ],
+  "ritual": [
+   "morning"
+  ],
+  "faqs": [
+   {
+    "q": "Is the rose scent strong?",
+    "a": "It is a soft scent from rose essential oil. Patch test first if fragrance bothers your skin."
+   }
+  ],
+  "useWith": [
+   "rose-hydrating-mist",
+   "beetroot-ghee-lip-balm"
+  ]
+ },
+ {
+  "slug": "rose-hydrating-mist",
+  "sku": "KMR100",
+  "kind": "product",
+  "name": "Rose Hydrating Mist",
+  "liveName": "Rose Hydrating Mist | Daily Dewy Hydration & Skin Comfort (100ml)",
+  "size": "100 ml",
+  "price": 625,
+  "oneLine": "Rose water and aloe juice in a fine mist. Step one of both our rituals.",
+  "description": [
+   "Damask rose flower water with aloe vera juice. Spray it on a clean face before your gel or oil, or any time your skin feels tired.",
+   "One bottle serves both the morning and the evening ritual."
+  ],
+  "howToUse": "Close your eyes, hold the bottle about 20 cm away and spray two or three times over face and neck.",
+  "when": "Morning, evening, or any time",
+  "forWhom": "Dry, normal, combination and sensitive skin",
+  "keyIngredients": [
+   "Damask rose flower water",
+   "Aloe vera juice"
+  ],
+  "fullIngredients": "Rosa Damascena Flower Water, Aloe Vera Juice, Natural Preservatives.",
+  "ingredientSlugs": [
+   "rose",
+   "aloe-vera"
+  ],
+  "collections": [
+   "face-mists"
+  ],
+  "needs": [
+   "dryness",
+   "dull",
+   "sensitive"
+  ],
+  "skin": [
+   "combination",
+   "dry",
+   "normal",
+   "sensitive"
+  ],
+  "ritual": [
+   "morning",
+   "evening"
+  ],
+  "faqs": [
+   {
+    "q": "Is this a toner?",
+    "a": "Think of it as a light, refreshing first step. It adds a little water and freshness before your gel or oil."
+   },
+   {
+    "q": "Can I spray it over make-up?",
+    "a": "Yes, from a little further away, to refresh during the day."
+   }
+  ],
+  "useWith": [
+   "pure-aloe-vera-gel",
+   "cold-pressed-moringa-oil",
+   "aloe-vera-bathing-bar"
+  ]
+ },
+ {
+  "slug": "tea-tree-purifying-mist",
+  "sku": "KMTT100",
+  "kind": "product",
+  "name": "Tea Tree Purifying Mist",
+  "liveName": "Tea Tree Purifying Mist | Oil Control & Clarifying Face Mist (100ml)",
+  "size": "100 ml",
+  "price": 795,
+  "oneLine": "A fresh, herbal mist for oily and combination skin.",
+  "description": [
+   "Tea tree leaf water with aloe vera juice. It feels fresh and clean, which oily and combination skin tends to like.",
+   "This is a leaf water (a hydrosol), not tea tree oil, so it is much milder than the oil."
+  ],
+  "howToUse": "Spray two or three times over a clean face, keeping eyes closed. Follow with the aloe gel.",
+  "when": "Morning, or after the gym",
+  "forWhom": "Oily and combination skin",
+  "keyIngredients": [
+   "Tea tree leaf water",
+   "Aloe vera juice"
+  ],
+  "fullIngredients": "Tea Tree Leaf Water, Aloe Vera Juice, Natural Preservatives.",
+  "ingredientSlugs": [
+   "tea-tree",
+   "aloe-vera"
+  ],
+  "collections": [
+   "face-mists"
+  ],
+  "needs": [
+   "oily"
+  ],
+  "skin": [
+   "combination",
+   "oily"
+  ],
+  "ritual": [
+   "morning"
+  ],
+  "faqs": [
+   {
+    "q": "Does it treat acne?",
+    "a": "No. It is a refreshing mist for oily skin, not a treatment. For acne, please see a dermatologist."
+   }
+  ],
+  "useWith": [
+   "pure-aloe-vera-gel",
+   "tomato-extract-soap"
+  ]
+ },
+ {
+  "slug": "eucalyptus-soothing-mist",
+  "sku": "KME100",
+  "kind": "product",
+  "name": "Eucalyptus Soothing Mist",
+  "liveName": "Eucalyptus Soothing Mist | Instant Cooling & Purifying Face Mist (100ml)",
+  "size": "100 ml",
+  "price": 795,
+  "oneLine": "Eucalyptus water and witch hazel for hot, humid days.",
+  "description": [
+   "Eucalyptus hydrosol with aloe vera juice and witch hazel. It smells fresh and feels cool on warm skin.",
+   "Keep it in your bag for summer afternoons, or use it in place of the rose mist when the weather is sticky."
+  ],
+  "howToUse": "Spray two or three times over face and neck with eyes closed.",
+  "when": "Any time it feels hot",
+  "forWhom": "Oily and combination skin; hot, humid weather",
+  "keyIngredients": [
+   "Eucalyptus hydrosol",
+   "Aloe vera juice",
+   "Witch hazel"
+  ],
+  "fullIngredients": "Eucalyptus Hydrosol, Aloe Vera Juice, Witch Hazel, Natural Preservatives.",
+  "ingredientSlugs": [
+   "eucalyptus-witch-hazel",
+   "aloe-vera"
+  ],
+  "collections": [
+   "face-mists"
+  ],
+  "needs": [
+   "oily"
+  ],
+  "skin": [
+   "combination",
+   "oily"
+  ],
+  "ritual": [
+   "morning"
+  ],
+  "faqs": [
+   {
+    "q": "Is it suitable for sensitive skin?",
+    "a": "Strong fresh scents can bother sensitive skin. If yours is reactive, start with the Rose Hydrating Mist."
+   }
+  ],
+  "useWith": [
+   "pure-aloe-vera-gel"
+  ]
+ },
+ {
+  "slug": "cold-pressed-moringa-oil",
+  "sku": "KMO30",
+  "kind": "product",
+  "name": "Cold-Pressed Moringa Oil",
+  "liveName": "Pure Cold-Pressed Moringa Oil | Antioxidant Face Oil for Deep Nourishment (30ml)",
+  "size": "30 ml",
+  "price": 695,
+  "oneLine": "Moringa seeds, dried in the sun and pressed slowly. One ingredient.",
+  "description": [
+   "Moringa is the drumstick tree that grows across India. For this oil the seeds are dried in the sun before they are pressed, and nothing else is added.",
+   "It is a light oil that softens dry skin. Night is the best time to use it, when it has hours to work."
+  ],
+  "howToUse": "Warm two or three drops between your palms and press them onto face and neck after your mist or gel.",
+  "when": "Night",
+  "forWhom": "Dry and normal skin",
+  "keyIngredients": [
+   "Moringa seed oil (100%)"
+  ],
+  "fullIngredients": "100% Cold-Pressed Moringa (Moringa Oleifera) Seed Oil.",
+  "ingredientSlugs": [
+   "moringa"
+  ],
+  "collections": [
+   "oils"
+  ],
+  "needs": [
+   "dryness"
+  ],
+  "skin": [
+   "dry",
+   "normal"
+  ],
+  "ritual": [
+   "evening"
+  ],
+  "faqs": [
+   {
+    "q": "How much should I use?",
+    "a": "Two or three drops is enough for face and neck. A little goes a long way."
+   },
+   {
+    "q": "Can I use it if my skin is oily?",
+    "a": "You can try one drop at night. Many people with oily skin prefer the aloe gel alone."
+   }
+  ],
+  "useWith": [
+   "rose-hydrating-mist",
+   "aloe-vera-gel-with-vitamin-e",
+   "licorice-cocoa-ghee-lip-balm"
+  ],
+  "approvals": [
+   "Pack photo shows older carton; reshoot with current packaging",
+   "How many weeks does 30 ml last?"
+  ]
+ },
+ {
+  "slug": "aloe-vera-bathing-bar",
+  "sku": "KSA100",
+  "kind": "product",
+  "name": "Aloe Vera Bathing Bar",
+  "liveName": "Handcrafted Aloe Vera Bathing Bar | Gentle Cleansing & Daily Hydration (100g)",
+  "size": "100 g",
+  "price": 425,
+  "oneLine": "A mild handmade bar for face and body.",
+  "description": [
+   "A gentle bathing bar for face and body, made by hand with aloe vera extract, coconut and olive oils. It is step one of our evening ritual."
+  ],
+  "howToUse": "Lather between wet hands, wash face and body, and rinse with lukewarm water. Let the bar dry between uses.",
+  "when": "Evening (or any bath)",
+  "forWhom": "Dry, normal and sensitive skin",
+  "keyIngredients": [
+   "Aloe vera extract",
+   "Coconut oil",
+   "Olive oil"
+  ],
+  "fullIngredients": "Aloe Vera Extract, Coconut Oil, Olive Oil, Vegetable Oils, Natural Soap Base, Purified Water, Sodium Hydroxide (used during saponification), Natural Fragrance.",
+  "ingredientSlugs": [
+   "aloe-vera"
+  ],
+  "collections": [
+   "bath-body",
+   "aloe-vera-essentials"
+  ],
+  "needs": [
+   "dryness",
+   "sensitive"
+  ],
+  "skin": [
+   "dry",
+   "normal",
+   "sensitive"
+  ],
+  "ritual": [
+   "evening"
+  ],
+  "faqs": [
+   {
+    "q": "Can I use it on my face?",
+    "a": "Yes. It is mild enough for face and body. Patch test first if your skin is very sensitive."
+   }
+  ],
+  "useWith": [
+   "rose-hydrating-mist",
+   "cold-pressed-moringa-oil"
+  ],
+  "approvals": [
+   "Pack says \"100% vegan\": confirm",
+   "Confirm whether this bar is cold-process or a soap base"
+  ]
+ },
+ {
+  "slug": "cow-milk-bathing-bar",
+  "sku": "KSCM100",
+  "kind": "product",
+  "name": "Cow Milk Bathing Bar",
+  "liveName": "Handcrafted Cow Milk Bathing Bar | Deep Nourishment & Silky Soft Skin (100g)",
+  "size": "100 g",
+  "price": 425,
+  "oneLine": "Cow milk and shea butter in a creamy handmade bar.",
+  "description": [
+   "Made with cow milk, shea butter and coconut oil. A good bar for dry winter skin, and one many families buy for parents."
+  ],
+  "howToUse": "Lather between wet hands or on a soft cloth, wash and rinse well.",
+  "when": "Daily bath",
+  "forWhom": "Dry and sensitive skin",
+  "keyIngredients": [
+   "Cow milk",
+   "Shea butter",
+   "Coconut oil"
+  ],
+  "fullIngredients": "Cow Milk, Shea Butter, Coconut Oil, Vegetable Oils, Natural Soap Base, Purified Water, Sodium Hydroxide (used during saponification), Natural Fragrance.",
+  "ingredientSlugs": [
+   "shea-butter"
+  ],
+  "collections": [
+   "bath-body"
+  ],
+  "needs": [
+   "dryness",
+   "sensitive"
+  ],
+  "skin": [
+   "sensitive",
+   "dry"
+  ],
+  "ritual": [
+   "evening"
+  ],
+  "contains": "Contains cow milk. Not vegan.",
+  "faqs": [
+   {
+    "q": "Is this bar vegan?",
+    "a": "No. It is made with cow milk."
+   }
+  ],
+  "useWith": [
+   "avocado-olive-ghee-foot-butter",
+   "cold-pressed-moringa-oil"
+  ],
+  "approvals": [
+   "\"Cruelty-Free & Vegan\" badge removed from the live page"
+  ]
+ },
+ {
+  "slug": "ubtan-bathing-bar",
+  "sku": "KSU100",
+  "kind": "product",
+  "name": "Ubtan Bathing Bar",
+  "liveName": "Handcrafted Ubtan Bathing Bar | Traditional Brightening & Gentle Exfoliation (100g)",
+  "size": "100 g",
+  "price": 425,
+  "oneLine": "Turmeric, sandalwood and besan, the way ubtan has always been made.",
+  "description": [
+   "Ubtan is the turmeric and chickpea-flour paste used in Indian homes and before weddings. This bar puts the same ingredients, turmeric, sandalwood and chickpea flour, into a bathing bar with aloe and coconut oil.",
+   "The besan gives a gentle polish. Use it a few times a week as part of a slower bath."
+  ],
+  "howToUse": "Lather on wet skin, massage gently in small circles, and rinse.",
+  "when": "Two or three times a week",
+  "forWhom": "Normal, dry, combination and sensitive skin",
+  "keyIngredients": [
+   "Turmeric",
+   "Sandalwood",
+   "Chickpea flour (besan)"
+  ],
+  "fullIngredients": "Turmeric, Sandalwood, Chickpea Flour, Aloe Vera Extract, Coconut Oil, Vegetable Oils, Natural Soap Base, Purified Water, Sodium Hydroxide (used during saponification), Natural Fragrance.",
+  "ingredientSlugs": [
+   "turmeric",
+   "aloe-vera"
+  ],
+  "collections": [
+   "bath-body"
+  ],
+  "needs": [
+   "dull"
+  ],
+  "skin": [
+   "combination",
+   "dry",
+   "normal",
+   "sensitive"
+  ],
+  "faqs": [
+   {
+    "q": "Will turmeric stain?",
+    "a": "Turmeric can mark light towels and nails. Rinse well."
+   }
+  ],
+  "useWith": [
+   "rose-hydrating-mist",
+   "aloe-vera-gel-with-vitamin-e"
+  ]
+ },
+ {
+  "slug": "kuppaimeni-soap",
+  "sku": "KSKP125",
+  "kind": "product",
+  "name": "Kuppaimeni Soap",
+  "liveName": "KIZORA KUPPAIMENI NATURAL SOAP",
+  "size": "125 g",
+  "price": 355,
+  "oneLine": "Indian nettle, coconut and castor oils, cured slowly.",
+  "description": [
+   "Kuppaimeni is the Tamil name for Indian nettle (Acalypha indica), a plant long used in Siddha and household remedies. This soap pairs it with coconut oil, castor oil and shea butter.",
+   "We make our natural soaps slowly and let them cure for 21 to 28 days before packing."
+  ],
+  "howToUse": "Lather between wet hands and wash. Keep the bar on a dry soap dish between uses.",
+  "when": "Daily bath",
+  "forWhom": "Everyday body care",
+  "keyIngredients": [
+   "Kuppaimeni (Indian nettle) extract",
+   "Coconut oil",
+   "Castor oil",
+   "Shea butter"
+  ],
+  "ingredientsComplete": false,
+  "fullIngredients": "Kuppaimeni (Indian nettle) extract, coconut oil, castor oil, shea butter.",
+  "ingredientSlugs": [
+   "kuppaimeni",
+   "shea-butter"
+  ],
+  "collections": [
+   "bath-body"
+  ],
+  "needs": [],
+  "skin": [
+   "all"
+  ],
+  "faqs": [
+   {
+    "q": "What is kuppaimeni?",
+    "a": "Indian nettle, a common plant in South India with a long history in traditional remedies. See our ingredient page for what is and is not known about it."
+   }
+  ],
+  "useWith": [
+   "avocado-olive-ghee-foot-butter",
+   "rose-hydrating-mist"
+  ],
+  "approvals": [
+   "Full ingredient list (INCI) needed",
+   "Confirm 21 to 28 day cure applies to this soap",
+   "Size (125 g) taken from the pack"
+  ]
+ },
+ {
+  "slug": "hibiscus-rose-soap",
+  "sku": "KSHR125",
+  "kind": "product",
+  "name": "Hibiscus & Rose Soap",
+  "liveName": "KIZORA HIBISCUS & ROSE NATURAL SOAP",
+  "size": "125 g",
+  "price": 355,
+  "oneLine": "Hibiscus, damask rose and rosehip oil in a soft floral bar.",
+  "description": [
+   "A natural soap made with damask rose and hibiscus extracts, olive oil, cold-pressed almond oil, rosehip seed oil and coconut water."
+  ],
+  "howToUse": "Lather between wet hands and wash. Rinse well.",
+  "when": "Daily bath",
+  "forWhom": "Everyday body care",
+  "keyIngredients": [
+   "Hibiscus extract",
+   "Damask rose extract",
+   "Rosehip seed oil"
+  ],
+  "ingredientsComplete": false,
+  "fullIngredients": "Damask rose and hibiscus extracts, olive oil, cold-pressed almond oil, rosehip seed oil, coconut water.",
+  "ingredientSlugs": [
+   "rose"
+  ],
+  "collections": [
+   "bath-body"
+  ],
+  "needs": [
+   "dull"
+  ],
+  "skin": [
+   "all"
+  ],
+  "faqs": [],
+  "useWith": [
+   "rose-hydrating-mist"
+  ],
+  "approvals": [
+   "Full ingredient list (INCI) needed",
+   "Size (125 g) taken from the pack",
+   "Is the scent only from the botanicals?"
+  ]
+ },
+ {
+  "slug": "tomato-extract-soap",
+  "sku": "KSTM125",
+  "kind": "product",
+  "name": "Tomato Extract Soap",
+  "liveName": "Tomato Extract Soap | Cleansing Bar for Fresh, Radiant-Looking Skin (125 g)",
+  "size": "125 g",
+  "price": 355,
+  "oneLine": "Tomato extract with coconut and castor oils and vitamin E.",
+  "description": [
+   "A natural soap bar with tomato extract, coconut oil, castor oil, shea butter and vitamin E oil. A fresh everyday bar that people with oily skin often enjoy."
+  ],
+  "howToUse": "Lather between wet hands, wash, and rinse with lukewarm water.",
+  "when": "Daily bath",
+  "forWhom": "Normal to oily skin",
+  "keyIngredients": [
+   "Tomato extract",
+   "Coconut oil",
+   "Castor oil",
+   "Vitamin E oil"
+  ],
+  "fullIngredients": "Coconut Oil, Castor Oil, Tomato Extract, Shea Butter, Vitamin E Oil, Aqua (Water), Sodium Hydroxide, Essential Oils.",
+  "ingredientSlugs": [
+   "shea-butter",
+   "vitamin-e"
+  ],
+  "collections": [
+   "bath-body"
+  ],
+  "needs": [
+   "oily",
+   "dull"
+  ],
+  "skin": [
+   "oily",
+   "normal"
+  ],
+  "faqs": [
+   {
+    "q": "Why does the pack say \"Tomato Surprise\"?",
+    "a": "The current pack carries the name Tomato Surprise. It is the same soap. We will use one name once the founder decides."
+   }
+  ],
+  "useWith": [
+   "tea-tree-purifying-mist"
+  ],
+  "approvals": [
+   "Choose one name: \"Tomato Extract Soap\" or \"Tomato Surprise\""
+  ]
+ },
+ {
+  "slug": "fig-vanilla-shower-wash",
+  "sku": "KBWFV",
+  "kind": "product",
+  "name": "Fig & Vanilla Shower Wash",
+  "liveName": "Silkening Shower Wash Fig & Vanilla | Softening Botanical Body Cleanser (100ml)",
+  "size": "100 ml",
+  "price": 495,
+  "oneLine": "A warm fig and vanilla body wash with aloe juice and glycerin.",
+  "description": [
+   "A coconut-based body cleanser with fig and vanilla extracts, aloe vera juice and glycerin. For anyone who prefers a wash to a bar."
+  ],
+  "howToUse": "Squeeze a little onto a wet loofah or palm, lather over the body and rinse.",
+  "when": "Daily shower",
+  "forWhom": "Dry and normal skin",
+  "keyIngredients": [
+   "Fig extract",
+   "Vanilla extract",
+   "Aloe vera juice",
+   "Glycerin"
+  ],
+  "fullIngredients": "Fig Extract, Vanilla Extract, Aloe Vera Juice, Coconut-Based Cleansing Agents, Glycerin, Natural Fragrance, Natural Preservatives.",
+  "ingredientSlugs": [
+   "aloe-vera"
+  ],
+  "collections": [
+   "bath-body"
+  ],
+  "needs": [
+   "dryness"
+  ],
+  "skin": [
+   "dry",
+   "normal"
+  ],
+  "faqs": [],
+  "useWith": [
+   "avocado-olive-ghee-foot-butter"
+  ],
+  "approvals": [
+   "Site says 100 ml \"Shower Wash\"; bottle photo says 200 ml \"Replenishing Shower Gel\""
+  ]
+ },
+ {
+  "slug": "avocado-olive-ghee-foot-butter",
+  "sku": "KFB50",
+  "kind": "product",
+  "name": "Avocado & Olive Ghee Foot Butter",
+  "liveName": "Avocado + Olive Ghee Foot Butter | Deeply Nourishing Foot Cream (50ml)",
+  "size": "50 g",
+  "price": 395,
+  "oneLine": "Desi cow ghee, shea butter and four oils for dry, rough heels.",
+  "description": [
+   "A thick foot butter of desi cow ghee, black sesame, jojoba, almond, olive and avocado oils, shea butter and beeswax.",
+   "Many of our older customers reorder this one for cracked heels. Use it at bedtime with cotton socks. Deep or painful cracks need a doctor."
+  ],
+  "howToUse": "Massage a small amount into clean, dry heels and feet at night, then wear cotton socks.",
+  "when": "Night",
+  "forWhom": "Dry, rough heels and feet",
+  "keyIngredients": [
+   "Desi cow ghee",
+   "Shea butter",
+   "Avocado oil",
+   "Olive oil"
+  ],
+  "fullIngredients": "Desi Cow Ghee, Black Sesame Oil, Jojoba Oil, Cold-Pressed Almond Oil, Olive Oil, Avocado Oil, Shea Butter and Beeswax.",
+  "ingredientSlugs": [
+   "desi-cow-ghee",
+   "shea-butter"
+  ],
+  "collections": [
+   "hands-feet"
+  ],
+  "needs": [
+   "dry-feet"
+  ],
+  "skin": [
+   "dry",
+   "normal"
+  ],
+  "ritual": [
+   "evening"
+  ],
+  "contains": "Contains desi cow ghee and beeswax. Not vegan.",
+  "faqs": [
+   {
+    "q": "Who buys it most?",
+    "a": "Our founder tells us that older customers with dry, cracked heels reorder it regularly."
+   },
+   {
+    "q": "Is it vegan?",
+    "a": "No. It contains desi cow ghee and beeswax."
+   }
+  ],
+  "useWith": [
+   "cow-milk-bathing-bar",
+   "licorice-cocoa-ghee-lip-balm"
+  ],
+  "approvals": [
+   "Title corrected from \"50ml\" to 50 g",
+   "\"Cruelty-Free & Vegan\" badge removed",
+   "Customer feedback line: approve wording"
+  ]
+ },
+ {
+  "slug": "beetroot-ghee-lip-balm",
+  "sku": "KLBB",
+  "kind": "product",
+  "name": "Beetroot & Ghee Lip Balm",
+  "liveName": "Kizora Beetroot & Ghee Lip Balm — Natural Repair & Tint for Dry Lips",
+  "size": "",
+  "price": 365,
+  "oneLine": "Ghee, beetroot and prickly pear in a tin. A soft tint for daytime.",
+  "description": [
+   "A lip balm of desi cow ghee, beetroot extract, shea butter and prickly pear extract. The beetroot gives a light natural tint, so this is our daytime balm."
+  ],
+  "howToUse": "Smooth a thin layer onto lips with a clean fingertip.",
+  "when": "Day",
+  "forWhom": "Dry lips",
+  "keyIngredients": [
+   "Desi cow ghee",
+   "Beetroot extract",
+   "Shea butter",
+   "Prickly pear extract"
+  ],
+  "ingredientsComplete": false,
+  "fullIngredients": "Desi cow ghee, beetroot extract, shea butter, prickly pear extract, coconut oil.",
+  "ingredientSlugs": [
+   "desi-cow-ghee",
+   "shea-butter"
+  ],
+  "collections": [
+   "lip-care"
+  ],
+  "needs": [
+   "dry-lips"
+  ],
+  "skin": [
+   "all"
+  ],
+  "ritual": [
+   "morning"
+  ],
+  "contains": "Contains desi cow ghee. Not vegan.",
+  "faqs": [
+   {
+    "q": "Can I use it during pregnancy?",
+    "a": "Please check the ingredients with your doctor."
+   }
+  ],
+  "useWith": [
+   "licorice-cocoa-ghee-lip-balm",
+   "pure-aloe-vera-gel"
+  ],
+  "approvals": [
+   "Full ingredient list and net weight needed",
+   "\"100% natural\", \"chemical-free\" and pregnancy-safety claims removed"
+  ]
+ },
+ {
+  "slug": "licorice-cocoa-ghee-lip-balm",
+  "sku": "KLBL",
+  "kind": "product",
+  "name": "Licorice, Cocoa & Ghee Lip Balm",
+  "liveName": "Kzora Licorice, Cocoa & Ghee Lip Balm — Natural Dark Spot Repair for Lips",
+  "size": "",
+  "price": 365,
+  "oneLine": "A richer ghee balm with licorice and cocoa, for night.",
+  "description": [
+   "Desi cow ghee with licorice (mulethi) extract and cocoa. It is richer than the beetroot balm, so we suggest it as the last step of the evening ritual."
+  ],
+  "howToUse": "Apply a generous layer before bed.",
+  "when": "Night",
+  "forWhom": "Dry lips",
+  "keyIngredients": [
+   "Desi cow ghee",
+   "Licorice extract",
+   "Cocoa"
+  ],
+  "ingredientsComplete": false,
+  "fullIngredients": "Desi cow ghee, licorice extract, cocoa powder.",
+  "ingredientSlugs": [
+   "desi-cow-ghee",
+   "licorice"
+  ],
+  "collections": [
+   "lip-care"
+  ],
+  "needs": [
+   "dry-lips"
+  ],
+  "skin": [
+   "all"
+  ],
+  "ritual": [
+   "evening"
+  ],
+  "contains": "Contains desi cow ghee. Not vegan.",
+  "faqs": [
+   {
+    "q": "Will it lighten dark lips?",
+    "a": "We do not make that claim. It is a nourishing balm for dry lips."
+   }
+  ],
+  "useWith": [
+   "beetroot-ghee-lip-balm",
+   "cold-pressed-moringa-oil"
+  ],
+  "approvals": [
+   "\"Natural dark spot repair\" removed from the name",
+   "Typo \"Kzora\" corrected",
+   "Full ingredient list and net weight needed"
+  ]
+ },
+ {
+  "slug": "red-onion-hair-oil",
+  "sku": "KOHO100",
+  "kind": "product",
+  "name": "Red Onion Elixir",
+  "liveName": "Ayurvedic Red Onion Hair Oil | Strengthening Hair Roots & Healthy Hair Growth (100ml)",
+  "size": "100 ml",
+  "price": 395,
+  "oneLine": "A herbal hair oil with onion, amla, methi and bhringraj.",
+  "description": [
+   "A coconut, castor and sesame oil base with onion juice, amla, ginger, garlic, jaswand, methi, curry leaves, brahmi, bhringraj and jatamansi. The comb nozzle makes it easy to reach the scalp.",
+   "Use it for a scalp massage two or three times a week."
+  ],
+  "howToUse": "Part your hair, apply along the scalp with the comb nozzle, massage for a few minutes, leave for an hour or overnight, then wash.",
+  "when": "Two or three times a week",
+  "forWhom": "Dry scalp and dry-feeling hair",
+  "keyIngredients": [
+   "Onion juice",
+   "Amla",
+   "Bhringraj",
+   "Brahmi"
+  ],
+  "fullIngredients": "Onion Juice, Amla, Ginger, Garlic, Jaswand, Methi, Curry Leaves, Brahmi, Bhringraj, Jatamansi, Coconut Oil, Castor Oil, Sesame Oil, Fragrance.",
+  "ingredientSlugs": [
+   "bhringraj-brahmi-amla"
+  ],
+  "collections": [
+   "hair",
+   "oils"
+  ],
+  "needs": [
+   "dry-scalp"
+  ],
+  "skin": [
+   "all"
+  ],
+  "faqs": [
+   {
+    "q": "Will it stop hair fall?",
+    "a": "It is not a treatment for hair fall. It is a conditioning oil for a regular scalp-massage ritual."
+   }
+  ],
+  "useWith": [
+   "bringa-brahmi-hair-oil"
+  ],
+  "approvals": [
+   "\"Ayurvedic\" and \"healthy hair growth\" removed from the name until licensed/substantiated",
+   "Typo \"Leqaves\" corrected"
+  ]
+ },
+ {
+  "slug": "bringa-brahmi-hair-oil",
+  "sku": "KHHO100",
+  "kind": "product",
+  "name": "Bringa Brahmi Elixir",
+  "liveName": "Bringa Brahmi Elixir | Ayurvedic Hair & Scalp Nourishing Oil (100ml)",
+  "size": "100 ml",
+  "price": 395,
+  "oneLine": "Bhringraj and brahmi in coconut, castor and sesame oils.",
+  "description": [
+   "A herbal hair oil with bhringraj, brahmi, amla, jatamansi and curry leaves in a coconut, castor and sesame oil base, for a slow scalp massage."
+  ],
+  "howToUse": "Apply to the scalp with the comb nozzle, massage, leave for an hour or overnight, then wash.",
+  "when": "Two or three times a week",
+  "forWhom": "Dry scalp and dry-feeling hair",
+  "keyIngredients": [
+   "Bhringraj",
+   "Brahmi",
+   "Amla"
+  ],
+  "fullIngredients": "Onion, Amla, Ginger, Garlic, Jaswand, Curry Leaves, Brahmi, Bhringraj, Jatamansi, Coconut Oil, Castor Oil, Sesame Oil, Fragrance.",
+  "ingredientSlugs": [
+   "bhringraj-brahmi-amla"
+  ],
+  "collections": [
+   "hair",
+   "oils"
+  ],
+  "needs": [
+   "dry-scalp"
+  ],
+  "skin": [
+   "all"
+  ],
+  "faqs": [
+   {
+    "q": "How is it different from the Red Onion Elixir?",
+    "a": "The ingredient lists are very similar; the Red Onion Elixir also has methi (fenugreek)."
+   }
+  ],
+  "useWith": [
+   "red-onion-hair-oil"
+  ],
+  "approvals": [
+   "\"Ayurvedic\" removed from the name until licensed",
+   "Describe how it differs from Red Onion Elixir"
+  ]
+ },
+ {
+  "slug": "morning-ritual-kit",
+  "name": "Morning Ritual Kit",
+  "liveName": "New (not on live site)",
+  "size": "2 products",
+  "components": [
+   "rose-hydrating-mist",
+   "pure-aloe-vera-gel"
+  ],
+  "oneLine": "2 essentials: Rose Hydrating Mist + Pure Aloe Vera Gel.",
+  "description": [
+   "The two essentials of the morning ritual: a rose mist, then a light aloe gel. Light enough to wear under sunscreen or make-up. Add a lip balm separately if you like."
+  ],
+  "howToUse": "Mist, wait a few seconds, then smooth on a pea-sized amount of gel. Finish with sunscreen.",
+  "when": "Morning",
+  "forWhom": "Everyone; the default morning kit",
+  "collections": [
+   "sets-hampers"
+  ],
+  "needs": [
+   "dryness"
+  ],
+  "skin": [
+   "all"
+  ],
+  "ritual": [
+   "morning"
+  ],
+  "faqs": [],
+  "useWith": [
+   "beetroot-ghee-lip-balm"
+  ],
+  "approvals": [
+   "Kit price is the sum of listed prices. Any kit discount needs approval"
+  ],
+  "kind": "kit",
+  "price": 950,
+  "keyIngredients": [
+   "Damask rose flower water",
+   "Aloe vera juice",
+   "Aloe vera leaf gel (99%)"
+  ],
+  "fullIngredients": "Rose Hydrating Mist: Rosa Damascena Flower Water, Aloe Vera Juice, Natural Preservatives.\nPure Aloe Vera Gel: Aloe Barbadensis Leaf Gel (99%), Natural Preservatives.",
+  "ingredientSlugs": [
+   "rose",
+   "aloe-vera"
+  ]
+ },
+ {
+  "slug": "morning-ritual-kit-oily-skin",
+  "name": "Morning Ritual Kit, Oily Skin",
+  "liveName": "New (not on live site)",
+  "size": "2 products",
+  "components": [
+   "tea-tree-purifying-mist",
+   "pure-aloe-vera-gel"
+  ],
+  "oneLine": "Tea Tree Purifying Mist with Pure Aloe Vera Gel, for oily and combination skin.",
+  "description": [
+   "The morning ritual with the fresher tea tree mist in place of rose."
+  ],
+  "howToUse": "Mist, then a pea-sized amount of gel. Finish with sunscreen.",
+  "when": "Morning",
+  "forWhom": "Oily and combination skin",
+  "collections": [
+   "sets-hampers"
+  ],
+  "needs": [
+   "oily"
+  ],
+  "skin": [
+   "oily",
+   "combination"
+  ],
+  "ritual": [
+   "morning"
+  ],
+  "faqs": [],
+  "useWith": [
+   "tomato-extract-soap"
+  ],
+  "approvals": [
+   "Kit price is the sum of listed prices. Any kit discount needs approval"
+  ],
+  "kind": "kit",
+  "price": 1120,
+  "keyIngredients": [
+   "Tea tree leaf water",
+   "Aloe vera juice",
+   "Aloe vera leaf gel (99%)"
+  ],
+  "fullIngredients": "Tea Tree Purifying Mist: Tea Tree Leaf Water, Aloe Vera Juice, Natural Preservatives.\nPure Aloe Vera Gel: Aloe Barbadensis Leaf Gel (99%), Natural Preservatives.",
+  "ingredientSlugs": [
+   "tea-tree",
+   "aloe-vera"
+  ]
+ },
+ {
+  "slug": "evening-ritual-kit",
+  "name": "Evening Essentials",
+  "liveName": "New (not on live site)",
+  "size": "2 products",
+  "components": [
+   "cold-pressed-moringa-oil",
+   "licorice-cocoa-ghee-lip-balm"
+  ],
+  "oneLine": "2 products: Cold-Pressed Moringa Oil + Licorice, Cocoa & Ghee Lip Balm.",
+  "description": [
+   "The two nourishing steps of the evening ritual: a few drops of moringa oil for your face and a rich balm for your lips. For all five steps, choose the Complete Evening Ritual."
+  ],
+  "howToUse": "After cleansing and misting, press two or three drops of oil onto face and neck. Finish with the balm.",
+  "when": "Night",
+  "forWhom": "Dry and normal skin; dry lips",
+  "collections": [
+   "sets-hampers"
+  ],
+  "needs": [
+   "dryness",
+   "dry-lips"
+  ],
+  "skin": [
+   "dry",
+   "normal"
+  ],
+  "ritual": [
+   "evening"
+  ],
+  "faqs": [],
+  "useWith": [
+   "rose-hydrating-mist",
+   "aloe-vera-bathing-bar"
+  ],
+  "approvals": [
+   "Kit price is the sum of listed prices. Any kit discount needs approval",
+   "Approve the customer-facing name \"Evening Essentials\""
+  ],
+  "kind": "kit",
+  "price": 1060,
+  "keyIngredients": [
+   "Moringa seed oil (100%)",
+   "Desi cow ghee",
+   "Licorice extract",
+   "Cocoa"
+  ],
+  "fullIngredients": "Cold-Pressed Moringa Oil: 100% Cold-Pressed Moringa (Moringa Oleifera) Seed Oil.\nLicorice, Cocoa & Ghee Lip Balm: Desi cow ghee, licorice extract, cocoa powder.",
+  "ingredientSlugs": [
+   "moringa",
+   "desi-cow-ghee",
+   "licorice"
+  ]
+ },
+ {
+  "slug": "winter-night-care-set",
+  "name": "Winter Night Care Set",
+  "liveName": "New (not on live site)",
+  "size": "2 products",
+  "components": [
+   "cow-milk-bathing-bar",
+   "avocado-olive-ghee-foot-butter"
+  ],
+  "oneLine": "Cow Milk Bathing Bar and Ghee Foot Butter. An easy gift for parents.",
+  "description": [
+   "A simple winter set for dry skin and rough heels. Many of our customers buy it for their parents."
+  ],
+  "howToUse": "Use the bar in the evening bath, then massage the foot butter into heels and wear cotton socks.",
+  "when": "Night, in winter",
+  "forWhom": "Dry skin and heels",
+  "collections": [
+   "sets-hampers"
+  ],
+  "needs": [
+   "dryness",
+   "dry-feet"
+  ],
+  "skin": [
+   "dry"
+  ],
+  "ritual": [
+   "evening"
+  ],
+  "faqs": [],
+  "useWith": [
+   "licorice-cocoa-ghee-lip-balm"
+  ],
+  "contains": "Contains cow milk, desi cow ghee and beeswax.",
+  "approvals": [
+   "Kit price is the sum of listed prices. Any kit discount needs approval",
+   "Replace with the founder's real winter hamper photos"
+  ],
+  "kind": "kit",
+  "price": 820,
+  "keyIngredients": [
+   "Cow milk",
+   "Shea butter",
+   "Coconut oil",
+   "Desi cow ghee"
+  ],
+  "fullIngredients": "Cow Milk Bathing Bar: Cow Milk, Shea Butter, Coconut Oil, Vegetable Oils, Natural Soap Base, Purified Water, Sodium Hydroxide (used during saponification), Natural Fragrance.\nAvocado & Olive Ghee Foot Butter: Desi Cow Ghee, Black Sesame Oil, Jojoba Oil, Cold-Pressed Almond Oil, Olive Oil, Avocado Oil, Shea Butter and Beeswax.",
+  "ingredientSlugs": [
+   "shea-butter",
+   "desi-cow-ghee"
+  ]
+ },
+ {
+  "slug": "complete-evening-ritual",
+  "name": "Complete Evening Ritual",
+  "liveName": "New (not on live site)",
+  "size": "5 products",
+  "components": [
+   "aloe-vera-bathing-bar",
+   "rose-hydrating-mist",
+   "cold-pressed-moringa-oil",
+   "licorice-cocoa-ghee-lip-balm",
+   "avocado-olive-ghee-foot-butter"
+  ],
+  "oneLine": "5 products: every step of the evening ritual, from bar to foot butter.",
+  "description": [
+   "Everything in the evening ritual: cleanse, mist, nourish, lips and feet."
+  ],
+  "howToUse": "Follow the evening ritual page, step by step.",
+  "when": "Night",
+  "forWhom": "Anyone who wants the full evening routine",
+  "collections": [
+   "sets-hampers"
+  ],
+  "needs": [
+   "dryness",
+   "dry-lips",
+   "dry-feet"
+  ],
+  "skin": [
+   "dry",
+   "normal"
+  ],
+  "ritual": [
+   "evening"
+  ],
+  "faqs": [],
+  "useWith": [],
+  "contains": "Contains desi cow ghee and beeswax.",
+  "approvals": [
+   "Kit price is the sum of listed prices. Any kit discount needs approval"
+  ],
+  "kind": "kit",
+  "price": 2505,
+  "keyIngredients": [
+   "Aloe vera extract",
+   "Coconut oil",
+   "Olive oil",
+   "Damask rose flower water"
+  ],
+  "fullIngredients": "Aloe Vera Bathing Bar: Aloe Vera Extract, Coconut Oil, Olive Oil, Vegetable Oils, Natural Soap Base, Purified Water, Sodium Hydroxide (used during saponification), Natural Fragrance.\nRose Hydrating Mist: Rosa Damascena Flower Water, Aloe Vera Juice, Natural Preservatives.\nCold-Pressed Moringa Oil: 100% Cold-Pressed Moringa (Moringa Oleifera) Seed Oil.\nLicorice, Cocoa & Ghee Lip Balm: Desi cow ghee, licorice extract, cocoa powder.\nAvocado & Olive Ghee Foot Butter: Desi Cow Ghee, Black Sesame Oil, Jojoba Oil, Cold-Pressed Almond Oil, Olive Oil, Avocado Oil, Shea Butter and Beeswax.",
+  "ingredientSlugs": [
+   "aloe-vera",
+   "rose",
+   "moringa",
+   "desi-cow-ghee",
+   "licorice",
+   "shea-butter"
+  ]
+ }
+]

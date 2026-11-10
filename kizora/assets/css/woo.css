@@ -1,0 +1,48 @@
+/* WooCommerce checkout, account and notices in Kizora's palette.
+   Works with both the classic (shortcode) and the block checkout. */
+.kz-woo, .kz-woo input, .kz-woo select, .kz-woo textarea, .kz-woo button { font-family: Jost, system-ui, sans-serif; }
+.kz-woo h2, .kz-woo h3, .kz-woo .wc-block-components-title { font-family: "Playfair Display", Georgia, serif; font-weight: 500; color: #3A2F2A; }
+.kz-woo h3 { font-size: 24px; margin: 24px 0 12px; }
+.kz-woo a { color: #3A2F2A; text-decoration: underline; text-decoration-color: rgba(210,170,85,.6); text-underline-offset: 4px; }
+
+/* fields */
+.kz-woo input[type=text], .kz-woo input[type=email], .kz-woo input[type=tel], .kz-woo input[type=password], .kz-woo input[type=number],
+.kz-woo select, .kz-woo textarea, .kz-woo .select2-container .select2-selection--single,
+.kz-woo .wc-block-components-text-input input, .kz-woo .wc-blocks-components-select select {
+  background: #FBF8F2 !important; border: 1px solid #E3D9C8 !important; border-radius: 2px !important; color: #3A2F2A; padding: 12px 14px; font-size: 15px; box-shadow: none !important;
+}
+.kz-woo .select2-container .select2-selection--single { height: auto; }
+.kz-woo input:focus, .kz-woo select:focus, .kz-woo textarea:focus { border-color: #3A2F2A !important; outline: 2px solid #A47E2F; outline-offset: 2px; }
+.kz-woo label { font-size: 13.5px; color: #6B5D55; }
+.kz-woo .form-row { margin-bottom: 14px; }
+
+/* buttons */
+.kz-woo .button, .kz-woo button.button, .kz-woo #place_order, .kz-woo .wc-block-components-button:not(.is-link), .kz-woo .woocommerce-Button {
+  background: #3A2F2A !important; color: #F6F1E8 !important; border: 0 !important; border-radius: 2px !important; padding: 15px 26px !important;
+  font-size: 13px !important; font-weight: 500 !important; letter-spacing: .12em; text-transform: uppercase; text-decoration: none !important;
+}
+.kz-woo .button:hover, .kz-woo #place_order:hover, .kz-woo .wc-block-components-button:not(.is-link):hover { background: #4A3C33 !important; }
+.kz-woo #place_order { width: 100%; }
+
+/* order review and payment boxes */
+.kz-woo #order_review, .kz-woo .woocommerce-checkout-review-order, .kz-woo .wc-block-checkout__sidebar .wc-block-components-sidebar,
+.kz-woo .woocommerce-MyAccount-navigation { background: #FBF8F2; border: 1px solid #E3D9C8; border-radius: 3px; padding: 24px; }
+.kz-woo table.shop_table { border: 0; border-collapse: collapse; width: 100%; }
+.kz-woo table.shop_table th, .kz-woo table.shop_table td { border-top: 1px solid #E3D9C8; padding: 12px 6px; text-align: left; }
+.kz-woo table.shop_table .order-total { font-family: "Playfair Display", Georgia, serif; font-size: 20px; }
+.kz-woo #payment { background: #F6F1E8 !important; border-radius: 3px; }
+.kz-woo #payment div.payment_box { background: #FBF8F2 !important; color: #3A2F2A; }
+.kz-woo #payment div.payment_box::before { border-bottom-color: #FBF8F2 !important; }
+
+/* account menu */
+.kz-woo .woocommerce-MyAccount-navigation ul { list-style: none; margin: 0; padding: 0; }
+.kz-woo .woocommerce-MyAccount-navigation li { border-bottom: 1px solid #E3D9C8; }
+.kz-woo .woocommerce-MyAccount-navigation li a { display: block; padding: 10px 0; text-decoration: none; }
+.kz-woo .woocommerce-MyAccount-navigation li.is-active a { font-weight: 500; }
+
+/* notices */
+.woocommerce-message, .woocommerce-info, .woocommerce-error, .wc-block-components-notice-banner {
+  background: #FBF8F2 !important; border: 1px solid #E3D9C8 !important; border-left: 3px solid #4F6449 !important; color: #3A2F2A !important; border-radius: 3px; list-style: none;
+}
+.woocommerce-error { border-left-color: #B6462F !important; }
+.woocommerce-message::before, .woocommerce-info::before { color: #4F6449 !important; }

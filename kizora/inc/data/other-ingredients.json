@@ -1,0 +1,139 @@
+[
+ {
+  "name": "Chickpea flour (besan)",
+  "products": [
+   "ubtan-bathing-bar"
+  ]
+ },
+ {
+  "name": "Sandalwood",
+  "products": [
+   "ubtan-bathing-bar"
+  ]
+ },
+ {
+  "name": "Cow milk",
+  "products": [
+   "cow-milk-bathing-bar"
+  ]
+ },
+ {
+  "name": "Coconut oil",
+  "products": [
+   "aloe-vera-bathing-bar",
+   "cow-milk-bathing-bar",
+   "ubtan-bathing-bar",
+   "kuppaimeni-soap",
+   "tomato-extract-soap",
+   "red-onion-hair-oil",
+   "bringa-brahmi-hair-oil"
+  ]
+ },
+ {
+  "name": "Olive oil",
+  "products": [
+   "aloe-vera-bathing-bar",
+   "hibiscus-rose-soap",
+   "avocado-olive-ghee-foot-butter"
+  ]
+ },
+ {
+  "name": "Castor oil",
+  "products": [
+   "kuppaimeni-soap",
+   "tomato-extract-soap",
+   "red-onion-hair-oil",
+   "bringa-brahmi-hair-oil"
+  ]
+ },
+ {
+  "name": "Hibiscus (jaswand)",
+  "products": [
+   "hibiscus-rose-soap",
+   "red-onion-hair-oil",
+   "bringa-brahmi-hair-oil"
+  ]
+ },
+ {
+  "name": "Tomato extract",
+  "products": [
+   "tomato-extract-soap"
+  ]
+ },
+ {
+  "name": "Fig and vanilla extracts",
+  "products": [
+   "fig-vanilla-shower-wash"
+  ]
+ },
+ {
+  "name": "Avocado oil",
+  "products": [
+   "avocado-olive-ghee-foot-butter"
+  ]
+ },
+ {
+  "name": "Jojoba oil",
+  "products": [
+   "avocado-olive-ghee-foot-butter"
+  ]
+ },
+ {
+  "name": "Almond oil",
+  "products": [
+   "hibiscus-rose-soap",
+   "avocado-olive-ghee-foot-butter"
+  ]
+ },
+ {
+  "name": "Sesame / black sesame oil",
+  "products": [
+   "avocado-olive-ghee-foot-butter",
+   "red-onion-hair-oil",
+   "bringa-brahmi-hair-oil"
+  ]
+ },
+ {
+  "name": "Beeswax",
+  "products": [
+   "avocado-olive-ghee-foot-butter"
+  ]
+ },
+ {
+  "name": "Beetroot extract",
+  "products": [
+   "beetroot-ghee-lip-balm"
+  ]
+ },
+ {
+  "name": "Prickly pear extract",
+  "products": [
+   "beetroot-ghee-lip-balm"
+  ]
+ },
+ {
+  "name": "Cocoa powder",
+  "products": [
+   "licorice-cocoa-ghee-lip-balm"
+  ]
+ },
+ {
+  "name": "Onion juice",
+  "products": [
+   "red-onion-hair-oil",
+   "bringa-brahmi-hair-oil"
+  ]
+ },
+ {
+  "name": "Rosehip seed oil",
+  "products": [
+   "hibiscus-rose-soap"
+  ]
+ },
+ {
+  "name": "Glycerin",
+  "products": [
+   "fig-vanilla-shower-wash"
+  ]
+ }
+]

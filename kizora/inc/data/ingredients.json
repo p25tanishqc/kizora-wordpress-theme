@@ -1,0 +1,243 @@
+[
+ {
+  "slug": "aloe-vera",
+  "image": "/images/home/aloe-face.webp",
+  "name": "Aloe vera",
+  "localName": "Ghritkumari",
+  "group": "Hydrating",
+  "what": "The clear gel inside the leaves of the aloe plant, known in many Indian homes as ghritkumari.",
+  "tradition": "Used at home for generations on minor sunburn and dry skin.",
+  "evidence": "The gel is mostly water with polysaccharides. Reviews describe moisturising and soothing properties; much of the research is laboratory or small studies, so it is best described as a light hydrator that feels cooling.",
+  "how": "Leaves a light layer that holds water on the skin surface; feels cool.",
+  "concerns": "Dryness, skin that feels tight or warm after sun or shaving.",
+  "limits": "Rare allergy; patch test first. It is a light hydrator, not a treatment for burns or acne.",
+  "products": [
+   "pure-aloe-vera-gel",
+   "aloe-vera-gel-with-vitamin-e",
+   "aloe-vera-gel-with-rose-oil",
+   "rose-hydrating-mist",
+   "tea-tree-purifying-mist",
+   "eucalyptus-soothing-mist",
+   "aloe-vera-bathing-bar",
+   "ubtan-bathing-bar",
+   "fig-vanilla-shower-wash"
+  ],
+  "source": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2763764/",
+   "title": "Surjushe et al., Aloe vera: a short review, Indian J Dermatol 2008"
+  },
+  "listedAs": "Aloe Barbadensis Leaf Gel"
+ },
+ {
+  "slug": "rose",
+  "name": "Rose (Damask rose)",
+  "localName": "Gulab",
+  "group": "Plant waters",
+  "what": "Rose water is the fragrant water collected when rose petals are steam-distilled; rose oil is the concentrated oil.",
+  "tradition": "Gulab jal has long been used in Indian homes as a face freshener.",
+  "evidence": "Valued mainly for its scent and as a gentle, refreshing water. Pharmacological reviews cover many uses, mostly not on skin, so skin claims should stay modest.",
+  "how": "Adds water and a soft scent; makes a mist feel pleasant to use.",
+  "concerns": "Refreshing dry or tired-looking skin.",
+  "limits": "Fragrance compounds can bother very sensitive skin.",
+  "products": [
+   "rose-hydrating-mist",
+   "aloe-vera-gel-with-rose-oil",
+   "hibiscus-rose-soap"
+  ],
+  "source": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3586833/",
+   "title": "Boskabady et al., Rosa damascena review, Iran J Basic Med Sci 2011"
+  },
+  "listedAs": "Rosa Damascena Flower Water; Rose Essential Oil"
+ },
+ {
+  "slug": "moringa",
+  "name": "Moringa seed oil",
+  "localName": "Sahjan, drumstick",
+  "group": "Oils & butters",
+  "what": "Oil pressed from the seeds of the drumstick tree (sahjan). Our seeds are dried in the sun before they are pressed.",
+  "tradition": "Drumstick is a familiar kitchen plant across India; the seed oil has a long history of cosmetic use.",
+  "evidence": "A light, stable oil, high in oleic acid according to commonly published compositions. It works as an emollient: it softens and smooths. Claims about elasticity or ageing are not established.",
+  "how": "Fills the gaps between surface skin cells so skin feels softer and less dry.",
+  "concerns": "Dry skin, especially at night and in winter.",
+  "limits": "Use 2 to 3 drops; oily or acne-prone skin may prefer less.",
+  "products": [
+   "cold-pressed-moringa-oil"
+  ],
+  "source": null,
+  "listedAs": "Moringa Oleifera Seed Oil"
+ },
+ {
+  "slug": "turmeric",
+  "name": "Turmeric (haldi)",
+  "localName": "Haldi",
+  "group": "Traditional Indian",
+  "what": "The dried, ground root of the turmeric plant.",
+  "tradition": "Central to ubtan and the haldi ceremony before Indian weddings.",
+  "evidence": "A systematic review found early clinical evidence for some skin uses of turmeric, with study quality still limited. In a rinse-off bar its contact time is short, so describe it as traditional rather than as a treatment.",
+  "how": "In an ubtan bar it adds colour and a traditional feel; chickpea flour gives gentle polish.",
+  "concerns": "Dull-looking skin as part of a weekly ritual.",
+  "limits": "Can stain light fabrics and nails; patch test.",
+  "products": [
+   "ubtan-bathing-bar"
+  ],
+  "source": {
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27213821/",
+   "title": "Vaughn et al., Turmeric and skin health, Phytother Res 2016"
+  },
+  "listedAs": "Turmeric"
+ },
+ {
+  "slug": "tea-tree",
+  "name": "Tea tree leaf water",
+  "localName": "",
+  "group": "Plant waters",
+  "what": "The water left after distilling tea tree leaves (a hydrosol), not the concentrated tea tree oil.",
+  "tradition": "Tea tree is an Australian plant; its oil became popular worldwide for oily skin.",
+  "evidence": "Most research is on tea tree OIL, which has antimicrobial properties in laboratory studies and some clinical use for mild acne. A leaf water contains far smaller amounts of those compounds, so oil studies cannot be borrowed for this product.",
+  "how": "A fresh, herbal mist that feels clarifying on oily skin.",
+  "concerns": "Oily and combination skin that wants a light refresh.",
+  "limits": "Avoid eyes; stop if irritation occurs. It is not a treatment for acne.",
+  "products": [
+   "tea-tree-purifying-mist"
+  ],
+  "source": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360273/",
+   "title": "Carson et al., Tea tree oil review, Clin Microbiol Rev 2006"
+  },
+  "listedAs": "Tea Tree Leaf Water"
+ },
+ {
+  "slug": "eucalyptus-witch-hazel",
+  "name": "Eucalyptus water and witch hazel",
+  "localName": "Nilgiri",
+  "group": "Plant waters",
+  "what": "Two plant waters in the Eucalyptus Soothing Mist: eucalyptus for a cool, fresh smell, and witch hazel, traditionally used as a mild astringent.",
+  "tradition": "Witch hazel water is a long-standing toner ingredient.",
+  "evidence": "Limited skin-specific evidence; describe the cooling feel, not medical effects.",
+  "how": "Cool, fresh sensation; may feel tightening on oily skin.",
+  "concerns": "Hot, humid days; post-workout refresh.",
+  "limits": "Strong scents can bother sensitive skin; avoid eyes.",
+  "products": [
+   "eucalyptus-soothing-mist"
+  ],
+  "source": null,
+  "listedAs": "Eucalyptus Hydrosol; Witch Hazel"
+ },
+ {
+  "slug": "kuppaimeni",
+  "name": "Kuppaimeni (Indian nettle)",
+  "localName": "Indian nettle",
+  "group": "Traditional Indian",
+  "what": "A common wayside plant, called kuppaimeni in Tamil.",
+  "tradition": "Used in Siddha and household remedies, including on skin.",
+  "evidence": "Scientific reviews describe its traditional uses and laboratory findings; there are no published cosmetic studies we could find. Present it as a traditional ingredient.",
+  "how": "Part of a mild cold-process soap with coconut and castor oils.",
+  "concerns": "Everyday body cleansing for those who like traditional ingredients.",
+  "limits": "Patch test; describe tradition, not results.",
+  "products": [
+   "kuppaimeni-soap"
+  ],
+  "source": {
+   "url": "https://phcogrev.com/node/474",
+   "title": "Review of Acalypha indica, Pharmacognosy Reviews"
+  },
+  "listedAs": "Kuppaimeni extract"
+ },
+ {
+  "slug": "desi-cow-ghee",
+  "name": "Desi cow ghee",
+  "localName": "Ghee",
+  "group": "Oils & butters",
+  "what": "Clarified butter made from cow's milk.",
+  "tradition": "Applied to cracked heels and dry lips in many Indian homes.",
+  "evidence": "A rich fat that acts as an emollient and seals in moisture; clinical cosmetic studies are scarce. Our founder reports that older customers reorder the ghee foot butter for cracked heels.",
+  "how": "Forms a soft, protective layer that slows water loss.",
+  "concerns": "Dry, rough heels and dry lips.",
+  "limits": "Animal-derived: products with ghee are not vegan.",
+  "products": [
+   "avocado-olive-ghee-foot-butter",
+   "beetroot-ghee-lip-balm",
+   "licorice-cocoa-ghee-lip-balm"
+  ],
+  "source": null,
+  "listedAs": "Desi Cow Ghee"
+ },
+ {
+  "slug": "shea-butter",
+  "name": "Shea butter",
+  "localName": "",
+  "group": "Oils & butters",
+  "what": "A plant butter from the nut of the African shea tree.",
+  "tradition": "Long used in West Africa on skin and hair.",
+  "evidence": "A widely used emollient in cosmetics.",
+  "how": "Softens and helps skin feel less dry.",
+  "concerns": "Dry skin, heels, lips; adds creaminess to soaps.",
+  "limits": "Rare nut-related sensitivity.",
+  "products": [
+   "cow-milk-bathing-bar",
+   "kuppaimeni-soap",
+   "tomato-extract-soap",
+   "avocado-olive-ghee-foot-butter",
+   "beetroot-ghee-lip-balm"
+  ],
+  "source": null,
+  "listedAs": "Shea Butter"
+ },
+ {
+  "slug": "vitamin-e",
+  "name": "Vitamin E",
+  "localName": "",
+  "group": "Hydrating",
+  "what": "A fat-soluble antioxidant; the acetate form is common in cosmetics.",
+  "tradition": "Not a traditional ingredient; a vitamin widely used in modern skin care.",
+  "evidence": "A dermatology review describes vitamin E as an antioxidant widely used in skin care; effects depend on form and amount.",
+  "how": "Adds antioxidant support to the formula and a softer feel.",
+  "concerns": "Drier skin.",
+  "limits": "Allergic reactions are uncommon but possible.",
+  "products": [
+   "aloe-vera-gel-with-vitamin-e",
+   "tomato-extract-soap"
+  ],
+  "source": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4976416/",
+   "title": "Keen & Hassan, Vitamin E in dermatology, IDOJ 2016"
+  },
+  "listedAs": "Vitamin E Acetate; Vitamin E Oil"
+ },
+ {
+  "slug": "licorice",
+  "name": "Licorice root (mulethi)",
+  "localName": "Mulethi",
+  "group": "Traditional Indian",
+  "what": "Extract of licorice root, known in India as mulethi.",
+  "tradition": "Used in home remedies and Ayurvedic preparations.",
+  "evidence": "Some licorice compounds have been studied for uneven pigmentation, mostly in the lab. A lip-balm 'dark spot repair' claim would need product-level proof.",
+  "how": "Part of a ghee-based lip balm.",
+  "concerns": "Dry lips.",
+  "limits": "Avoid 'repair' and 'brightening' claims unless tested.",
+  "products": [
+   "licorice-cocoa-ghee-lip-balm"
+  ],
+  "source": null,
+  "listedAs": "Licorice extract"
+ },
+ {
+  "slug": "bhringraj-brahmi-amla",
+  "name": "Bhringraj, brahmi and amla",
+  "localName": "",
+  "group": "Traditional Indian",
+  "what": "Three herbs traditionally used in Indian hair oils.",
+  "tradition": "Classic ingredients in home-made hair oils for scalp massage.",
+  "evidence": "Claims about hair growth or stopping hair fall need product-level clinical proof; present these oils as conditioning oils for a scalp-massage ritual.",
+  "how": "Oil + massage softens dry hair and scalp.",
+  "concerns": "Dry scalp and dry-feeling hair.",
+  "limits": "Patch test; wash out after an hour or overnight.",
+  "products": [
+   "red-onion-hair-oil",
+   "bringa-brahmi-hair-oil"
+  ],
+  "source": null,
+  "listedAs": "Bhringraj, Brahmi, Amla"
+ }
+]

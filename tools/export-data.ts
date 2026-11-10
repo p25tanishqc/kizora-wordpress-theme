@@ -1,0 +1,12 @@
+import { writeFileSync, mkdirSync } from 'fs';
+import { products, kits, NEEDS } from '../../kizora/src/data/products';
+import { collections } from '../../kizora/src/data/collections';
+import { ingredients, otherIngredients } from '../../kizora/src/data/ingredients';
+import { SITE, rituals, articles, faqs } from '../../kizora/src/data/site';
+const out = process.argv[2];
+mkdirSync(out, { recursive: true });
+const w = (n: string, d: unknown) => writeFileSync(`${out}/${n}.json`, JSON.stringify(d, null, 1));
+w('products', [...products, ...kits]); w('needs', NEEDS); w('collections', collections);
+w('ingredients', ingredients); w('other-ingredients', otherIngredients);
+w('site', SITE); w('rituals', rituals); w('articles', articles); w('faqs', faqs);
+console.log('ok', products.length, kits.length, collections.length, ingredients.length, articles.length);

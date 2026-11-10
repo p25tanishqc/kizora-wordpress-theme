@@ -1,0 +1,14 @@
+{
+  "name": "kizora-wordpress-theme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kizora Skincare WordPress/WooCommerce theme, converted from the redesign prototype.",
+  "scripts": {
+    "build:css": "tailwindcss -c tailwind.config.js -i src/kizora.css -o kizora/assets/css/kizora.css --minify",
+    "watch:css": "tailwindcss -c tailwind.config.js -i src/kizora.css -o kizora/assets/css/kizora.css --watch",
+    "build": "npm run build:css && bash tools/package.sh"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.14"
+  }
+}

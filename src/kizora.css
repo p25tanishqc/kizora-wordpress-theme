@@ -1,0 +1,90 @@
+/* Kizora theme styles. Source: the prototype's src/app/globals.css, plus self-hosted fonts. */
+@font-face { font-family: 'Playfair Display'; src: url(../fonts/playfair-display-latin-400-normal.woff2) format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Playfair Display'; src: url(../fonts/playfair-display-latin-500-normal.woff2) format('woff2'); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Playfair Display'; src: url(../fonts/playfair-display-latin-600-normal.woff2) format('woff2'); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Playfair Display'; src: url(../fonts/playfair-display-latin-400-italic.woff2) format('woff2'); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: 'Jost'; src: url(../fonts/jost-latin-300-normal.woff2) format('woff2'); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Jost'; src: url(../fonts/jost-latin-400-normal.woff2) format('woff2'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Jost'; src: url(../fonts/jost-latin-500-normal.woff2) format('woff2'); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Jost'; src: url(../fonts/jost-latin-600-normal.woff2) format('woff2'); font-weight: 600; font-style: normal; font-display: swap; }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --gutter: 20px; }
+@media (min-width: 768px) { :root { --gutter: 40px; } }
+
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body { @apply bg-cream text-ink font-sans antialiased; font-size: 16px; line-height: 1.65; }
+h1, h2, h3, h4 { @apply font-serif text-ink; font-weight: 500; letter-spacing: -0.01em; line-height: 1.15; }
+::selection { background: #EFE3B5; }
+:focus-visible { outline: 2px solid #A47E2F; outline-offset: 3px; }
+/* WordPress admin bar sits above the sticky header */
+.admin-bar header.sticky { top: 32px; }
+@media (max-width: 782px) { .admin-bar header.sticky { top: 46px; } }
+
+@layer components {
+  .wrap { @apply mx-auto w-full max-w-site; padding-left: var(--gutter); padding-right: var(--gutter); }
+  .eyebrow { @apply font-sans text-[12px] font-medium uppercase tracking-eyebrow text-sage-deep; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-[2px] bg-ink px-6 py-3.5 text-[13px] font-medium uppercase tracking-[0.12em] text-cream transition-colors hover:bg-dusk disabled:opacity-50; }
+  .btn-ghost { @apply inline-flex items-center justify-center gap-2 rounded-[2px] border border-ink px-6 py-3.5 text-[13px] font-medium uppercase tracking-[0.12em] text-ink transition-colors hover:bg-ink hover:text-cream; }
+  .btn-gold { @apply inline-flex items-center justify-center gap-2 rounded-[2px] bg-gold px-6 py-3.5 text-[13px] font-medium uppercase tracking-[0.12em] text-ink transition-colors hover:bg-gold-deep hover:text-cream; }
+  .link { @apply underline decoration-gold/60 underline-offset-4 hover:decoration-ink; }
+  .lead { @apply text-[17px] leading-relaxed text-ink2 md:text-lg; }
+  .hairline { @apply border-line; }
+  .chip { @apply inline-flex items-center rounded-full border border-line bg-paper px-3.5 py-1.5 text-[13.5px] text-ink transition-colors hover:border-ink; }
+  .chip[aria-pressed='true'] { @apply border-ink bg-ink text-cream; }
+  .prose-k p { @apply mb-5 text-[17px] leading-[1.8] text-ink/90; }
+  .prose-k h2 { @apply mb-3 mt-10 text-2xl; }
+  .prose-k ul { @apply mb-5 list-disc pl-6 text-[17px] leading-[1.8]; }
+  .prose-k a { @apply underline decoration-gold/60 underline-offset-4; }
+}
+
+/* Items marked for founder approval in the prototype carry no special style on the live site. */
+.needs-approval { text-decoration: none; }
+
+details > summary { list-style: none; cursor: pointer; }
+details > summary::-webkit-details-marker { display: none; }
+details[open] .chev { transform: rotate(45deg); }
+
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+
+/* WooCommerce notices shown on product and cart pages */
+.kz-notices .woocommerce-message, .kz-notices .woocommerce-info, .kz-notices .woocommerce-error { @apply mb-4 rounded-[3px] border border-line bg-paper px-5 py-4 text-[15px]; list-style: none; }
+.kz-notices .woocommerce-error { @apply border-[#B6462F]/40 bg-blush/50; }
+.kz-notices .button { @apply btn-ghost float-right ml-4 py-2 text-[12px]; }
+
+/* Product reviews (WooCommerce review list and form) */
+.kz-reviews .woocommerce-Reviews-title, .kz-reviews .woocommerce-noreviews { display: none; }
+.kz-reviews .commentlist { @apply mb-8 divide-y divide-line border-y border-line; list-style: none; padding: 0; }
+.kz-reviews .commentlist li { @apply py-5; }
+.kz-reviews .commentlist img.avatar { display: none; }
+.kz-reviews .meta { @apply text-[13px] text-ink2; }
+.kz-reviews .description p { @apply mt-2 text-[16px]; }
+.kz-reviews .comment-reply-title { @apply block font-serif text-[20px]; }
+.kz-reviews .comment-notes, .kz-reviews .comment-form-cookies-consent { @apply text-[13px] text-ink2; }
+.kz-reviews .comment-form p { @apply mt-4; }
+.kz-reviews label { @apply mb-1 block text-[13px] uppercase tracking-[0.12em] text-sage-deep; }
+.kz-reviews .comment-form-cookies-consent label { display: inline; text-transform: none; letter-spacing: 0; color: inherit; }
+.kz-reviews textarea, .kz-reviews input[type=text], .kz-reviews input[type=email] { @apply w-full max-w-xl rounded-[2px] border border-line bg-cream px-3.5 py-3 text-[15px] outline-none focus:border-ink; }
+.kz-reviews textarea { min-height: 120px; }
+.kz-reviews .form-submit input[type=submit] { @apply btn cursor-pointer; }
+.kz-reviews select#rating { @apply rounded-[2px] border border-line bg-cream px-3 py-2; }
+.kz-reviews p.stars { @apply my-1; }
+.kz-reviews p.stars a { position: relative; display: inline-block; width: 1.4em; height: 1.4em; margin-right: 2px; text-indent: -999em; overflow: hidden; }
+.kz-reviews p.stars a::before { content: '★'; position: absolute; inset: 0; text-indent: 0; font-size: 1.4em; line-height: 1; color: #E3D9C8; }
+.kz-reviews p.stars:hover a::before, .kz-reviews p.stars.selected a.active::before, .kz-reviews p.stars.selected a:not(.active)::before { color: #D2AA55; }
+.kz-reviews p.stars:hover a:hover ~ a::before, .kz-reviews p.stars.selected a.active ~ a::before { color: #E3D9C8; }
+.star-rating { position: relative; display: inline-block; width: 5.6em; height: 1.1em; overflow: hidden; font-size: 15px; line-height: 1; vertical-align: middle; }
+.star-rating::before { content: '★★★★★'; position: absolute; top: 0; left: 0; color: #E3D9C8; letter-spacing: .12em; }
+.star-rating span { position: absolute; top: 0; left: 0; height: 100%; overflow: hidden; padding-top: 1.5em; }
+.star-rating span::before { content: '★★★★★'; position: absolute; top: 0; left: 0; color: #D2AA55; letter-spacing: .12em; }
+
+/* WooCommerce's checkout CSS resizes every image (.woocommerce-page img); keep the theme's own sizes. */
+body .kz-logo { height: 38px; width: auto; max-width: none; }
+@media (min-width: 768px) { body .kz-logo { height: 48px; } }
+body .kz-logo-sm { height: 36px; width: auto; }
+body .kz-logo-f { height: 48px; width: auto; }
+.woocommerce-page [data-kz-cart] img { height: 100%; }

@@ -1,0 +1,117 @@
+{
+ "home": {
+  "title": "Kizora Skincare | Slow-made skincare from near Kanha, MP",
+  "description": "Small-batch aloe gels, face mists, oils and natural soaps made near Kanha, Madhya Pradesh. Simple morning and evening rituals, with ingredients explained clearly.",
+  "h1": "Slow-made care for everyday rituals."
+ },
+ "about": {
+  "title": "About Kizora | Made slowly, near Kanha",
+  "description": "How Kizora began, who makes it, and why our soaps take a month. A small-batch skincare brand made near Kanha National Park, Madhya Pradesh.",
+  "h1": "Made slowly, near Kanha."
+ },
+ "how-its-made": {
+  "title": "How it's made | Small-batch skincare near Kanha | Kizora",
+  "description": "Small batches, few machines, sun-dried moringa seed and natural soaps cured for 21 to 28 days, at a village unit near Kanha National Park.",
+  "h1": "Slow is the point."
+ },
+ "faq": {
+  "title": "Questions about Kizora | FAQ",
+  "description": "Where Kizora is made, whether products are vegan, Ayurvedic or organic, delivery, payment and returns.",
+  "h1": "Questions"
+ },
+ "contact": {
+  "title": "Contact Kizora | WhatsApp, email and address",
+  "description": "Questions about your skin or an order? WhatsApp is the fastest way to reach Kizora. Email and address inside.",
+  "h1": "Talk to us"
+ },
+ "shipping": {
+  "title": "Shipping and delivery | Kizora",
+  "description": "Free delivery on Kizora orders above ₹799, and how delivery works for smaller orders.",
+  "h1": "Shipping and delivery"
+ },
+ "returns": {
+  "title": "Returns, refunds and cancellations | Kizora",
+  "description": "What to do if your Kizora order arrives damaged or wrong.",
+  "h1": "Returns, refunds and cancellations"
+ },
+ "rituals": {
+  "title": "Rituals: a simple morning and evening | Kizora",
+  "description": "Not routines. Rituals. A three-minute morning and a slower evening, built only from products we make.",
+  "h1": "Not routines. Rituals."
+ },
+ "ingredient-aloe-vera": {
+  "title": "Aloe vera for skin: what it is and how we use it | Kizora",
+  "description": "The clear gel inside the leaves of the aloe plant, known in many Indian homes as ghritkumari. What the evidence says, who should be careful, and which Kizora ",
+  "h1": "Aloe vera"
+ },
+ "ingredient-bhringraj-brahmi-amla": {
+  "title": "Bhringraj, brahmi and amla for skin: what it is and how we use it | Kizora",
+  "description": "Three herbs traditionally used in Indian hair oils. What the evidence says, who should be careful, and which Kizora products contain it.",
+  "h1": "Bhringraj, brahmi and amla"
+ },
+ "ingredient-desi-cow-ghee": {
+  "title": "Desi cow ghee for skin: what it is and how we use it | Kizora",
+  "description": "Clarified butter made from cow's milk. What the evidence says, who should be careful, and which Kizora products contain it.",
+  "h1": "Desi cow ghee"
+ },
+ "ingredient-eucalyptus-witch-hazel": {
+  "title": "Eucalyptus water and witch hazel for skin: what it is and how we use it | Kizora",
+  "description": "Two plant waters in the Eucalyptus Soothing Mist: eucalyptus for a cool, fresh smell, and witch hazel, traditionally used as a mild astringent. What the evide",
+  "h1": "Eucalyptus water and witch hazel"
+ },
+ "ingredient-kuppaimeni": {
+  "title": "Kuppaimeni (Indian nettle) for skin: what it is and how we use it | Kizora",
+  "description": "A common wayside plant, called kuppaimeni in Tamil. What the evidence says, who should be careful, and which Kizora products contain it.",
+  "h1": "Kuppaimeni (Indian nettle)"
+ },
+ "ingredient-licorice": {
+  "title": "Licorice root (mulethi) for skin: what it is and how we use it | Kizora",
+  "description": "Extract of licorice root, known in India as mulethi. What the evidence says, who should be careful, and which Kizora products contain it.",
+  "h1": "Licorice root (mulethi)"
+ },
+ "ingredient-moringa": {
+  "title": "Moringa seed oil for skin: what it is and how we use it | Kizora",
+  "description": "Oil pressed from the seeds of the drumstick tree (sahjan). Our seeds are dried in the sun before they are pressed. What the evidence says, who should be caref",
+  "h1": "Moringa seed oil"
+ },
+ "ingredient-rose": {
+  "title": "Rose (Damask rose) for skin: what it is and how we use it | Kizora",
+  "description": "Rose water is the fragrant water collected when rose petals are steam-distilled; rose oil is the concentrated oil. What the evidence says, who should be caref",
+  "h1": "Rose (Damask rose)"
+ },
+ "ingredient-shea-butter": {
+  "title": "Shea butter for skin: what it is and how we use it | Kizora",
+  "description": "A plant butter from the nut of the African shea tree. What the evidence says, who should be careful, and which Kizora products contain it.",
+  "h1": "Shea butter"
+ },
+ "ingredient-tea-tree": {
+  "title": "Tea tree leaf water for skin: what it is and how we use it | Kizora",
+  "description": "The water left after distilling tea tree leaves (a hydrosol), not the concentrated tea tree oil. What the evidence says, who should be careful, and which Kizo",
+  "h1": "Tea tree leaf water"
+ },
+ "ingredient-turmeric": {
+  "title": "Turmeric (haldi) for skin: what it is and how we use it | Kizora",
+  "description": "The dried, ground root of the turmeric plant. What the evidence says, who should be careful, and which Kizora products contain it.",
+  "h1": "Turmeric (haldi)"
+ },
+ "ingredient-vitamin-e": {
+  "title": "Vitamin E for skin: what it is and how we use it | Kizora",
+  "description": "A fat-soluble antioxidant; the acetate form is common in cosmetics. What the evidence says, who should be careful, and which Kizora products contain it.",
+  "h1": "Vitamin E"
+ },
+ "journal-a-winter-evening-ritual": {
+  "title": "A winter evening ritual for dry skin and heels | Kizora Journal",
+  "description": "When the air turns dry, add two small steps to your evening.",
+  "h1": "A winter evening ritual for dry skin and heels"
+ },
+ "journal-how-to-use-moringa-oil-on-your-face": {
+  "title": "Moringa oil for your face: how much, when, and for whom | Kizora Journal",
+  "description": "Two or three drops at night is usually enough. Here is why, and who should skip it.",
+  "h1": "Moringa oil for your face: how much, when, and for whom"
+ },
+ "journal-why-our-soaps-take-a-month": {
+  "title": "Why our soaps take a month | Kizora Journal",
+  "description": "How cold-process soap is made, and why we wait 21 to 28 days before packing it.",
+  "h1": "Why our soaps take a month"
+ }
+}

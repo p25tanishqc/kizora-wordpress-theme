@@ -1,0 +1,15 @@
+/*
+Theme Name: Kizora
+Theme URI: https://kizoraskincare.com
+Author: Kizora Skincare
+Description: WordPress and WooCommerce theme for Kizora Skincare, converted from the approved redesign prototype. Keeps the prototype's layout, typography and colours, and runs on WooCommerce for products, cart and checkout.
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 6.7
+Requires PHP: 7.4
+WC requires at least: 8.0
+License: Proprietary (Kizora Skincare / Naturekit LLP)
+Text Domain: kizora
+*/
+
+/* The real styles live in assets/css/kizora.css (built from the prototype's Tailwind setup). */

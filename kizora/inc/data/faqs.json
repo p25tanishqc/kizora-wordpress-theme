@@ -1,0 +1,37 @@
+[
+ {
+  "q": "Where are Kizora products made?",
+  "a": "In a small unit near Kanha National Park, Madhya Pradesh, run by our botanist partner with people from nearby villages. Our founder works from Gurugram."
+ },
+ {
+  "q": "Are your products Ayurvedic or certified organic?",
+  "a": "Not today. We make clean, small-batch skincare. Our Ayurvedic certification is in process and we will update this answer when it is granted.",
+  "confirm": true
+ },
+ {
+  "q": "Are your products vegan?",
+  "a": "Some are and some are not. Both lip balms and the foot butter contain desi cow ghee, the foot butter also contains beeswax, and the Cow Milk Bathing Bar contains milk. Every product page lists what is in it."
+ },
+ {
+  "q": "Which product should I start with?",
+  "a": "Start with the Morning Ritual Kit: Rose Hydrating Mist and Pure Aloe Vera Gel. It is light, simple, and suits most skin."
+ },
+ {
+  "q": "Is delivery free?",
+  "a": "Delivery is free on orders above ₹799. For smaller orders, delivery charges are shown at checkout.",
+  "confirm": true
+ },
+ {
+  "q": "Can I return a product?",
+  "a": "Yes, if it arrives damaged or you receive the wrong item. Please see our returns page and message us within the time it states.",
+  "confirm": true
+ },
+ {
+  "q": "Can I use your products during pregnancy?",
+  "a": "Please check the ingredients with your doctor."
+ },
+ {
+  "q": "How do I reach you?",
+  "a": "WhatsApp is fastest: +91 96259 05995. You can also email Customercare@kizoraskincare.com."
+ }
+]
